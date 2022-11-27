@@ -1,4 +1,4 @@
-#### CIFAR10-TensorFlow
+# CIFAR10-TensorFlow
 
 ## Description
 
