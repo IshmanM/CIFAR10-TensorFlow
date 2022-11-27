@@ -18,7 +18,7 @@ In model_v3, overfitting was decreased as compared to previous versions. Train a
 
 ## Key Learnings
 
-I learned how to augment relatively small datasets for ML applicaitons. Often, dataset size limitations may apply. Applying matrix transformations on existing data may help circumvent this limitation.
+I learned how to augment relatively small datasets for ML applicaitons. Often, dataset size limitations may apply. Applying matrix transformations on existing data may help circumvent this limitation, saving time and data collection costs. I also learned of appropriate CNN and dense layer structures and hyperperameters for image classifiers. Doubling filters in subsequent convolutional layers appears to improve accuracy metrics.
 
 ## Future Considerations
 
